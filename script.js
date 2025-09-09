@@ -124,7 +124,7 @@ window.addEventListener('load', () => {
         
         setTimeout(() => {
             heroTitle.innerHTML = '';
-            typeWriter(heroTitle, 'Initiallizing... Project Trinetra', 50);
+            typeWriter(heroTitle, 'Initializing... Project Trinetra', 50);
         }, 500);
     }
 });
@@ -476,3 +476,4 @@ if (document.readyState === 'loading') {
     initComingSoonAlerts();
     initTeamImages();
 }
+
